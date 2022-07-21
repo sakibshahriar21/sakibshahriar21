@@ -52,3 +52,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibshahriar21&show_icons=true&theme=dark&locale=en" alt="sakibshahriar21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibshahriar21&theme=dark" alt="sakibshahriar21" /></p>
+
+<p align="center">
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=sakibshahriar21&theme=react-dark&area=true&hide_border=true" width="100%">
+
+</p>
