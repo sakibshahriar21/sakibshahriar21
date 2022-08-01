@@ -48,6 +48,9 @@
 [Red Hat System Administration I (RH124)](https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/aaa97f41-d83f-453c-ae65-8b73c76f6d20)
 
 
+[Apache JMeter™ Intro](https://drive.google.com/file/d/1PqrkKVGtYKh9qemSi7lKqeGbUqUQQaXS/view?usp=sharing)
+
+
 [API Test Automation with Postman](https://testautomationu.applitools.com/certificate/?id=29b46889)
 
 
