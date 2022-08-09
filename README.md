@@ -36,13 +36,16 @@
 [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/D3ZMM7KTNDT2)
 
 
-[Python (Basic) Skill Certification](https://www.hackerrank.com/certificates/a9e6e8dc7ea3)
+[Problem Solving (Basic) Skills Certification](https://www.hackerrank.com/certificates/4194034677ec)
+
+
+[Python (Basic) Skills Certification](https://www.hackerrank.com/certificates/a9e6e8dc7ea3)
 
 
 [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ETVTN352JGKY)
 
 
-[JavaScript (Basic) Skill Certification](https://www.hackerrank.com/certificates/add68a94a585)
+[JavaScript (Basic) Skills Certification](https://www.hackerrank.com/certificates/add68a94a585)
 
 
 [Red Hat System Administration I (RH124)](https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/aaa97f41-d83f-453c-ae65-8b73c76f6d20)
