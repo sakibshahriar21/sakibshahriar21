@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Self Driving Car with Neural Networks](https://github.com/sakibshahriar21/Self-Driving-Car-with-Neural-Networks)
 
-- 🌱 I’m currently learning **JMeter and Appium**
+- 🌱 I’m currently learning **JMeter and SQL**
 
 - 💬 Ask me about **Software Testing, System Administration**
 
