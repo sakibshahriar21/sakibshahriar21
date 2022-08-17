@@ -42,10 +42,10 @@
 [Python (Basic) Skills Certification](https://www.hackerrank.com/certificates/a9e6e8dc7ea3)
 
 
-[Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ETVTN352JGKY)
-
-
 [JavaScript (Basic) Skills Certification](https://www.hackerrank.com/certificates/add68a94a585)
+
+
+[Crash Course on Python by Google](https://www.coursera.org/account/accomplishments/certificate/ETVTN352JGKY)
 
 
 [Red Hat System Administration I (RH124)](https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/aaa97f41-d83f-453c-ae65-8b73c76f6d20)
