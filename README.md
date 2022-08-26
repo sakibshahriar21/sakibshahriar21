@@ -54,6 +54,9 @@
 [Apache JMeter™ Intro](https://drive.google.com/file/d/1PqrkKVGtYKh9qemSi7lKqeGbUqUQQaXS/view?usp=sharing)
 
 
+[Apache JMeter™ Pro](https://drive.google.com/file/d/1NZk74RKAbFRLsTeq9fG8GRG8MfpKt9Aj/view?usp=sharing)
+
+
 [API Test Automation with Postman](https://testautomationu.applitools.com/certificate/?id=29b46889)
 
 
