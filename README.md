@@ -51,6 +51,9 @@
 [Red Hat System Administration I (RH124)](https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/aaa97f41-d83f-453c-ae65-8b73c76f6d20)
 
 
+[Red Hat System Administration II (RH134)](https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/ab7f97aa-4da5-4970-a32b-919ba2a0d179)
+
+
 [Apache JMeter™ Intro](https://drive.google.com/file/d/1PqrkKVGtYKh9qemSi7lKqeGbUqUQQaXS/view?usp=sharing)
 
 
