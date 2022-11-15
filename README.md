@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mdsakibshahriar21@gmail.com**
 
-- 📄 Know about my experiences [Download My CV](https://drive.google.com/file/d/1Jf2re-1c824yRV2Ftdz3VxNZCcutfcj6/view?usp=sharing)
+- 📄 Know about my experiences [Download My CV](https://drive.google.com/file/d/1numnsOXcKH6sitTNeaI7xszNiFbz3UWf/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
